@@ -2,10 +2,10 @@
 
 /**
  * _myhistory - displays the history list, one command by line, preceded
- * with line numbers, starting at 0. when running the program.
+ * with line numbers, starting at 0. when running the program
  * @info: Structure containing potential arguments. Used to maintain
- * constant function prototype.
- * Return: Always 0 as success.
+ * constant function prototype
+ * Return: Always 0 as success
  */
 int _myhistory(info_t *info)
 {
