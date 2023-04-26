@@ -1,9 +1,9 @@
 #include "shell.h"
 
 /**
- * _myexit - exits the shell now.
+ * _myexit - exits the shell now
  * @info: Structure containing potential arguments. Used to maintain
- * constant function prototype of the program.
+ * constant function prototype of the program
  * Return: exits with a given exit status
  * (0) if info.argv[0] != "exit"
  */
